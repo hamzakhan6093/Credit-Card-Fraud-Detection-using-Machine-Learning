@@ -3,6 +3,8 @@
 
 This repository contains a project aimed at detecting fraudulent credit card transactions using classification-based machine learning techniques. The project leverages Logistic Regression, Decision Tree, and Support Vector Machine (SVM) models to classify transactions as legitimate or fraudulent.
 
+# Download the dataset from here: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 ## Dataset
 
 The dataset contains credit card transactions from European cardholders during September 2013. Features include:
